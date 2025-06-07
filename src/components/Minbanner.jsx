@@ -3,9 +3,9 @@ import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 
 const images = [
   "/images/cmbanner-1.avif",
-  "/images/carousel-2.avif",
-  "/images/carousel-3.png",
-  "/images/cmbanner-1.avif",
+  "/images/vitclg4.jpg",
+  "/images/vitclg1.jpg",
+  "/images/vitclg2.jpg",
 ];
 
 const Carousel = () => {
